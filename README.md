@@ -9,7 +9,7 @@
 
 - 📝 Exploring about **Flutter testing, Open Source, Article Writing**
 
-- 🤔 I’m looking for help with **Flutter Testing, Open Source contribution"
+- 🤔 I’m looking for help with **Flutter Testing, Open Source contribution**
 
 - 📫 How to reach me **priyatosh551@gmail.com**
 
