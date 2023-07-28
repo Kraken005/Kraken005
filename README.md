@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                                Priyatosh Das <br><br>-🔭 I’m currently working on Node JS, MongoDB, Flutter<br><br>- 📝 Exploring about Flutter testing, Open Source, Article Writing<br><br>- 🤔 I’m looking for help with Testing, Open Source contribution<br><br>- 📫 How to reach me priyatosh551@gmail.com
+-🔭 I’m currently working on Node JS, MongoDB, Flutter<br><br>- 📝 Exploring about Flutter testing, Open Source, Article Writing<br><br>- 🤔 I’m looking for help with Testing, Open Source contribution<br><br>- 📫 How to reach me priyatosh551@gmail.com
 
 
 ## 🌐 Socials:
